@@ -1,6 +1,9 @@
-# Wedding Website
-A beautiful, feature rich, device friendly wedding website.  
-_See [wedding.rampatra.com](http://wedding.rampatra.com/) for a demo. Use invite code `271117` to RSVP._
+# Invite Website
+
+This repo is a fork of https://github.com/rampatra/wedding-website to create a personal invite website.
+Personal images will be excluded and loaded from tpi. 
+A hosting example will be included in the code.
+
 
 # Highlights
 1. Slick and fully __responsive__ design.
